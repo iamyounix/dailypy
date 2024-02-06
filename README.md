@@ -1,2 +1,2 @@
-# dailypy_script
+# dailypy
 My daily python script
